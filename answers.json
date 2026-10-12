@@ -1,0 +1,80 @@
+[
+  {
+    "question_id": "q1",
+    "answer": "Users can request up to 3 password resets per hour.",
+    "citations": [
+      "auth_policy.md"
+    ],
+    "supported": true
+  },
+  {
+    "question_id": "q2",
+    "answer": "The API rate limit is 60 requests per minute per API token.",
+    "citations": [
+      "api_limits.md"
+    ],
+    "supported": true
+  },
+  {
+    "question_id": "q3",
+    "answer": "Identity verification requires a valid government-issued photo ID and proof of address dated within the last 3 months.",
+    "citations": [
+      "identity_verification.md"
+    ],
+    "supported": true
+  },
+  {
+    "question_id": "q4",
+    "answer": "Approved bank withdrawals normally take 3 to 5 business days to arrive.",
+    "citations": [
+      "withdrawals.md"
+    ],
+    "supported": true
+  },
+  {
+    "question_id": "q5",
+    "answer": "For a service outage affecting all users, support must notify the on-call engineer immediately.",
+    "citations": [
+      "incidents.md"
+    ],
+    "supported": true
+  },
+  {
+    "question_id": "q6",
+    "answer": "The documents do not contain enough information to answer this question.",
+    "citations": [],
+    "supported": false
+  },
+  {
+    "question_id": "q7",
+    "answer": "The documents do not contain enough information to answer this question.",
+    "citations": [],
+    "supported": false
+  },
+  {
+    "question_id": "q8",
+    "answer": "The documents do not contain enough information to answer this question.",
+    "citations": [],
+    "supported": false
+  },
+  {
+    "question_id": "q9",
+    "answer": "During an active service outage, the incident coordinator posts status updates every 30 minutes.",
+    "citations": [
+      "incidents.md"
+    ],
+    "supported": true
+  },
+  {
+    "question_id": "q10",
+    "answer": "The documents do not contain enough information to answer this question.",
+    "citations": [],
+    "supported": false
+  },
+  {
+    "question_id": "q11",
+    "answer": "The documents do not contain enough information to answer this question.",
+    "citations": [],
+    "supported": false
+  }
+]

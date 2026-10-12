@@ -1,0 +1,160 @@
+[
+  {
+    "question_id": "q1",
+    "retrieved_chunks": [
+      {
+        "doc_id": "auth_policy.md",
+        "chunk_id": "auth_policy.md:1",
+        "text": "Users can request up to 3 password resets per hour. A password reset link expires after 15 minutes.",
+        "score": 11.021697
+      },
+      {
+        "doc_id": "api_limits.md",
+        "chunk_id": "api_limits.md:1",
+        "text": "The API rate limit is 60 requests per minute per API token. Requests above this limit receive HTTP 429.",
+        "score": 2.141457
+      }
+    ]
+  },
+  {
+    "question_id": "q2",
+    "retrieved_chunks": [
+      {
+        "doc_id": "api_limits.md",
+        "chunk_id": "api_limits.md:1",
+        "text": "The API rate limit is 60 requests per minute per API token. Requests above this limit receive HTTP 429.",
+        "score": 11.951775
+      },
+      {
+        "doc_id": "auth_policy.md",
+        "chunk_id": "auth_policy.md:1",
+        "text": "Users can request up to 3 password resets per hour. A password reset link expires after 15 minutes.",
+        "score": 1.593949
+      }
+    ]
+  },
+  {
+    "question_id": "q3",
+    "retrieved_chunks": [
+      {
+        "doc_id": "identity_verification.md",
+        "chunk_id": "identity_verification.md:2",
+        "text": "Identity verification reviews normally take 2 business days. If uploaded documents are unreadable, users must submit clear replacement images.",
+        "score": 5.037576
+      },
+      {
+        "doc_id": "identity_verification.md",
+        "chunk_id": "identity_verification.md:1",
+        "text": "Identity verification requires a valid government-issued photo ID and proof of address dated within the last 3 months.",
+        "score": 3.097561
+      }
+    ]
+  },
+  {
+    "question_id": "q4",
+    "retrieved_chunks": [
+      {
+        "doc_id": "withdrawals.md",
+        "chunk_id": "withdrawals.md:1",
+        "text": "Approved bank withdrawals normally take 3 to 5 business days to arrive. Weekends and public holidays are excluded from processing time.",
+        "score": 7.263095
+      },
+      {
+        "doc_id": "identity_verification.md",
+        "chunk_id": "identity_verification.md:2",
+        "text": "Identity verification reviews normally take 2 business days. If uploaded documents are unreadable, users must submit clear replacement images.",
+        "score": 1.506101
+      },
+      {
+        "doc_id": "withdrawals.md",
+        "chunk_id": "withdrawals.md:2",
+        "text": "Users can check withdrawal status in the Payments page. If a bank withdrawal has not arrived after 5 business days, contact support with the transaction ID.",
+        "score": 1.391099
+      }
+    ]
+  },
+  {
+    "question_id": "q5",
+    "retrieved_chunks": [
+      {
+        "doc_id": "incidents.md",
+        "chunk_id": "incidents.md:1",
+        "text": "For a service outage affecting all users, support must notify the on-call engineer immediately. Record the incident start time and affected services in the incident tracker.",
+        "score": 9.474734
+      },
+      {
+        "doc_id": "incidents.md",
+        "chunk_id": "incidents.md:2",
+        "text": "During an active service outage, the incident coordinator posts status updates every 30 minutes. Support should direct users to the status page for progress updates.",
+        "score": 3.715998
+      },
+      {
+        "doc_id": "auth_policy.md",
+        "chunk_id": "auth_policy.md:2",
+        "text": "After 5 failed login attempts, the account is locked for 30 minutes. Support can help users regain access after confirming account ownership.",
+        "score": 0.88423
+      }
+    ]
+  },
+  {
+    "question_id": "q6",
+    "retrieved_chunks": [
+      {
+        "doc_id": "identity_verification.md",
+        "chunk_id": "identity_verification.md:1",
+        "text": "Identity verification requires a valid government-issued photo ID and proof of address dated within the last 3 months.",
+        "score": 3.097561
+      },
+      {
+        "doc_id": "identity_verification.md",
+        "chunk_id": "identity_verification.md:2",
+        "text": "Identity verification reviews normally take 2 business days. If uploaded documents are unreadable, users must submit clear replacement images.",
+        "score": 3.012203
+      },
+      {
+        "doc_id": "auth_policy.md",
+        "chunk_id": "auth_policy.md:2",
+        "text": "After 5 failed login attempts, the account is locked for 30 minutes. Support can help users regain access after confirming account ownership.",
+        "score": 0.88423
+      }
+    ]
+  },
+  {
+    "question_id": "q7",
+    "retrieved_chunks": [
+      {
+        "doc_id": "api_limits.md",
+        "chunk_id": "api_limits.md:1",
+        "text": "The API rate limit is 60 requests per minute per API token. Requests above this limit receive HTTP 429.",
+        "score": 7.784945
+      }
+    ]
+  },
+  {
+    "question_id": "q8",
+    "retrieved_chunks": []
+  },
+  {
+    "question_id": "q9",
+    "retrieved_chunks": [
+      {
+        "doc_id": "incidents.md",
+        "chunk_id": "incidents.md:2",
+        "text": "During an active service outage, the incident coordinator posts status updates every 30 minutes. Support should direct users to the status page for progress updates.",
+        "score": 11.52594
+      },
+      {
+        "doc_id": "incidents.md",
+        "chunk_id": "incidents.md:1",
+        "text": "For a service outage affecting all users, support must notify the on-call engineer immediately. Record the incident start time and affected services in the incident tracker.",
+        "score": 3.488146
+      },
+      {
+        "doc_id": "withdrawals.md",
+        "chunk_id": "withdrawals.md:2",
+        "text": "Users can check withdrawal status in the Payments page. If a bank withdrawal has not arrived after 5 business days, contact support with the transaction ID.",
+        "score": 1.391099
+      }
+    ]
+  }
+]

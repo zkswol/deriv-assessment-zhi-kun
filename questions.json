@@ -1,0 +1,11 @@
+[
+  {"id": "q1", "question": "How many password resets can users request per hour?", "expected_behavior": "answerable"},
+  {"id": "q2", "question": "What is the API rate limit per API token?", "expected_behavior": "answerable"},
+  {"id": "q3", "question": "What documents does identity verification require?", "expected_behavior": "answerable"},
+  {"id": "q4", "question": "How long do approved bank withdrawals normally take?", "expected_behavior": "answerable"},
+  {"id": "q5", "question": "Who should support notify for a service outage affecting all users?", "expected_behavior": "answerable"},
+  {"id": "q6", "question": "Can support bypass identity verification for VIP users?", "expected_behavior": "unanswerable"},
+  {"id": "q7", "question": "What is the API rate limit and the monthly subscription price?", "expected_behavior": "unanswerable"},
+  {"id": "q8", "question": "Which cryptocurrencies will be added next year?", "expected_behavior": "unanswerable"},
+  {"id": "q9","question": "How often does the incident coordinator post status updates during an outage?","expected_behavior": "answerable"}
+]

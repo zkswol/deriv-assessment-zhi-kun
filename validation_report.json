@@ -1,0 +1,90 @@
+[
+  {
+    "question_id": "q1",
+    "passed": true,
+    "errors": [],
+    "supported": true,
+    "generator": "extractive",
+    "fallback_reason": null
+  },
+  {
+    "question_id": "q2",
+    "passed": true,
+    "errors": [],
+    "supported": true,
+    "generator": "extractive",
+    "fallback_reason": null
+  },
+  {
+    "question_id": "q3",
+    "passed": true,
+    "errors": [],
+    "supported": true,
+    "generator": "extractive",
+    "fallback_reason": null
+  },
+  {
+    "question_id": "q4",
+    "passed": true,
+    "errors": [],
+    "supported": true,
+    "generator": "extractive",
+    "fallback_reason": null
+  },
+  {
+    "question_id": "q5",
+    "passed": true,
+    "errors": [],
+    "supported": true,
+    "generator": "extractive",
+    "fallback_reason": null
+  },
+  {
+    "question_id": "q6",
+    "passed": true,
+    "errors": [],
+    "supported": false,
+    "generator": "extractive",
+    "fallback_reason": null
+  },
+  {
+    "question_id": "q7",
+    "passed": true,
+    "errors": [],
+    "supported": false,
+    "generator": "extractive",
+    "fallback_reason": null
+  },
+  {
+    "question_id": "q8",
+    "passed": true,
+    "errors": [],
+    "supported": false,
+    "generator": "extractive",
+    "fallback_reason": null
+  },
+  {
+    "question_id": "q9",
+    "passed": true,
+    "errors": [],
+    "supported": true,
+    "generator": "extractive",
+    "fallback_reason": null
+  },
+  {
+    "question_id": "q10",
+    "passed": true,
+    "errors": [],
+    "supported": false,
+    "generator": "gemini",
+    "fallback_reason": null
+  },
+  {
+    "question_id": "q11",
+    "passed": true,
+    "errors": [],
+    "supported": false,
+    "generator": "gemini",
+    "fallback_reason": null
+  }
+]

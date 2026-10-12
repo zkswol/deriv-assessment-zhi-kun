@@ -3,6 +3,8 @@
 # (Never push API keys to a public repo!)
 # ==========================================
 .env
+.cli_question_ids.json
+pipeline.log
 .env.local
 .env.*.local
 *.env
